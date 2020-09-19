@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "39656562879",
+    "firebase_url": "https://overbowlapp.firebaseio.com",
+    "project_id": "overbowlapp",
+    "storage_bucket": "overbowlapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39656562879:android:fb91743b3d0ffec574660a",
+        "android_client_info": {
+          "package_name": "com.overbowl.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39656562879-kbnjv882flrmddgf5bc2l4arrq6b5pjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxgiiQOw0FjJJf96ntriWZVMYKyLB07iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39656562879-kbnjv882flrmddgf5bc2l4arrq6b5pjq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39656562879-ha479pj36ikgdljjq6933990tqclh665.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.overbowl.in"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39656562879:android:b7453e4912c6fa4674660a",
+        "android_client_info": {
+          "package_name": "com.overbowl.in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39656562879-kbnjv882flrmddgf5bc2l4arrq6b5pjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxgiiQOw0FjJJf96ntriWZVMYKyLB07iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39656562879-kbnjv882flrmddgf5bc2l4arrq6b5pjq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39656562879-ha479pj36ikgdljjq6933990tqclh665.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.overbowl.in"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
